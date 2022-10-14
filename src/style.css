@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: white;
+  background-color: #222;
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  letter-spacing: 30px;
+}
+
+h1 {
+  position: relative;
+  border: 5px solid red;
+}
+
+img {
+  max-width: 1000px;
+  object-fit: contain;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
